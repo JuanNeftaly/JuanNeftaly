@@ -43,8 +43,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=JuanNeftaly&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=JuanNeftaly&layout=compact&theme=tokyonight
+
+![JuanNeftaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanNeftaly&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanNeftaly&layout=compact&theme=tokyonight)
 
 </div>
 
