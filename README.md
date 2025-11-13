@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=JuanNeftaly&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=JuanNeftaly&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=JuanNeftaly&layout=compact&theme=tokyonight
 
 </div>
 
