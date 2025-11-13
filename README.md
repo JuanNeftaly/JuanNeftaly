@@ -45,7 +45,6 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JuanNeftaly&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanNeftaly&theme=tokyonight)
 
 </div>
 
