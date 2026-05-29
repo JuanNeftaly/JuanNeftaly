@@ -40,17 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![JuanNeftaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanNeftaly&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanNeftaly&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌐 Conecta conmigo
 
 📫 **Correo:** [juancastellanos376@gmail.com](juancastellanos376@gmail.com)  
